@@ -326,7 +326,7 @@
           },
           "title3": "Marketing Plan",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Design campaigns, create calendar, assign budgets/resources to achieve marketing objectives.<br>Connect content &amp; communications across channels: digital &amp; offline.<br>",
+          "caption3": "Design campaigns, create calendar, assign budgets/resources to achieve marketing objectives.<br>Connect content &amp; communications across channels: digital &amp; traditional.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -730,7 +730,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/saasifyio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/saasifyio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -1114,7 +1114,7 @@
               "color": "#363636"
             },
             "BLOCKQUOTE": {
-              "color": "#ffffff"
+              "color": "#363636"
             }
           },
           "_anchor": "content1-2q",
@@ -1123,7 +1123,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote>\"<i>Business enterprise has two–and only two–basic functions: <b>marketing</b> &amp; <b>innovation</b></i>\" -&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Peter Drucker</span></blockquote><p><br></p><p>Small to Mid-size organizations, particularly startups and non-profits, innovate with purpose. We founded SaaSify.io with a passion to be your marketing half. Our marketing-as-a-service grows with you to help you succeed in the as-a-service economy: rapidly embrace SaaS business models AND adopt SaaS apps for marketing.</p><p><br></p><p>Organizations rely on marketing to effectively achieve goals and efficiently execute to generate returns. We solve problems in the way:</p><ul><li>strategy not aligned to business goals</li><li>tactics don’t support strategy</li><li>execution disjointed or under-utilize digital</li></ul>"
+          "text": "<blockquote>\"<i>Business enterprise has two–and only two–basic functions: <b>marketing</b> &amp; <b>innovation</b></i>\" -&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Peter Drucker</span></blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Small to Mid-size organizations, particularly startups and non-profits, innovate with purpose. We founded SaaSify.io with a passion to be your marketing half. Our marketing-as-a-service grows with you to help you succeed in the as-a-service economy: rapidly embrace SaaS business models AND adopt SaaS apps for marketing.</span><br></p><p><br></p><p>Organizations rely on marketing to effectively achieve goals and efficiently execute to generate returns. We solve problems in the way:</p><ul><li>strategy not aligned to business goals</li><li>tactics don’t support strategy</li><li>execution disjointed or under-utilize digital</li></ul>"
         },
         {
           "_styles": {
@@ -2365,7 +2365,7 @@
             "showArrow": true
           },
           "title": "FEATURED MARKETING BLOCKS",
-          "text": "Select ablocks by growth stage or objective to build your own Marketing-As-A-Service.",
+          "text": "Select blocks by growth stage or objective to build your own Marketing-As-A-Service.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "media1": {
             "iconFont": {
@@ -4049,7 +4049,7 @@
                 "active": true,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-5181.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-51103.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-presence.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4065,7 +4065,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-7782.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-77104.png",
                 "image": "@PROJECT_PATH@/assets/images/product-market-fit.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4081,7 +4081,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-3383.png",
+                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-33105.png",
                 "image": "@PROJECT_PATH@/assets/images/customer-profile.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4097,7 +4097,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-8784.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-87106.png",
                 "image": "@PROJECT_PATH@/assets/images/sales-enablement.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4113,7 +4113,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-5185.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-51107.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-campaign.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4129,7 +4129,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-9186.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-91108.png",
                 "image": "@PROJECT_PATH@/assets/images/product-launch.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4161,7 +4161,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-1287.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-12109.png",
                 "image": "@PROJECT_PATH@/assets/images/sales-campaign.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4177,7 +4177,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-7288.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-72110.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-affinity.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4193,7 +4193,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-5889.png",
+                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-58111.png",
                 "image": "@PROJECT_PATH@/assets/images/voice-of-customer.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4209,7 +4209,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-6990.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-69112.png",
                 "image": "@PROJECT_PATH@/assets/images/product-adoption.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4225,7 +4225,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-691.png",
+                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-6113.png",
                 "image": "@PROJECT_PATH@/assets/images/customer-advocacy.png",
                 "onsale": "*",
                 "onSale": false,
