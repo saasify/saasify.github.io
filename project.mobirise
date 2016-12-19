@@ -1,0 +1,4323 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "SaaSify.io | Marketing",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#363636",
+        "secondaryColor": "#f15d5d",
+        "successColor": "#363636",
+        "infoColor": "#505ea8",
+        "warningColor": "#606163",
+        "dangerColor": "#ffffff",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Oxygen",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 185,
+    "versionPublish": "3.10.2",
+    "favicon": "@PROJECT_PATH@/assets/images/saasify-symbol-black-crop.svg",
+    "noImageResize": "true",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "SaaSify.io | Marketing Playbook for the As-A-Service Economy",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-37",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/way-to-success.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Marketing playbook for the as-a-service economy",
+          "text": "START &gt; SCALE &gt; SUSTAIN",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary\" href=\"startups.html\" data-toolbar=\"-mbrBtnMove\"><strong>Startups</strong></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary\" href=\"non-profits.html\" data-toolbar=\"-mbrBtnMove\"><strong>Nonprofits</strong></a>    "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#363636",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "text-align": "left"
+            },
+            "PRE": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Our vision is to make sophisticated marketing simple.</i>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">SaaSify.io empowers small to mid-size organizations to start, scale and sustain marketing to fuel growth. Our software-and-a-service \"building blocks\" fuse expert know-how, modern practices and smart apps to achieve specific brand, market, and customer goals with a transparent and predictable system. Get started with CMO Services or build your own Marketing-As-A-Service.</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc",
+            "showMeta": false
+          },
+          "title": "CMO SERVICES",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          },
+          "_anchor": "extFeatures4-4l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title1": "Target Markets|Segments",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Select markets/customers &amp; products and set marketing objectives based on growth levers.<br>Segment markets/customers for products and positioning.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title2": "Brand|Market Positioning",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Brand - Articulate purpose and promise to customers and employees, partners, investors.<br>Market - Define offering value proposition and key messages.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title3": "Marketing Plan",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Design campaigns, create calendar, assign budgets/resources to achieve marketing objectives.<br>Connect content &amp; communications across channels: digital &amp; offline.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title4": "Performance Metrics|Goals",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Define/Select metrics with line-of-sight to business goals and set targets. Measure operational &amp; outcomes performance against marketing objectives.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc",
+            "showMeta": false
+          },
+          "title": "MARKETING \"BUILDING BLOCKS\"",
+          "meta": "START &gt; SCALE &gt; SUSTAIN GROWTH"
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "@titleFont"
+            },
+            ".item-subtitle": {
+              "font-family": "@subtitleFont"
+            },
+            ".card-description": {
+              "font-family": "@textFont"
+            },
+            ".shop-item-price": {
+              "font-family": "@titleFont"
+            },
+            "H3": {
+              "text-align": "left"
+            },
+            ".item-subtitle DIV": {
+              "font-size": "16px"
+            }
+          },
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extShop1",
+          "_params": {
+            "showSidebar": true,
+            "showSortButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-51.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/brand-presence.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Presence",
+                "itemSubtitle": "<div>Create brand identity and digital presence to anchor (hub) and propagate (spokes) brand.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Brand Identity &amp; Guide</li><li>Website<br></li><li>Social Media &amp; Directories</li><li>Search Engine</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"featured-blocks.html\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-77.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/product-market-fit.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product-Market Fit",
+                "itemSubtitle": "<div>Validate market readiness and brand promise. Assess product capabilities against customer value, competing alternatives to guide product roadmap, market positioning.</div>",
+                "itemPrice": "",
+                "itemDescription": "",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4m\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-33.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/customer-profile.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Customer Profile",
+                "itemSubtitle": "<div>Identify target customers, develop personas, build contact lists. Define customer journey and map content, <span style=\"font-style: normal;\">communications</span>, call-to-action for campaigns.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p></p><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"featured-blocks.html\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-87.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/sales-enablement.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Sales Enablement",
+                "itemSubtitle": "<div>Map marketing, sales, partner coverage for markets / customers. Create collateral and tools to enable sales and partners.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p></p><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-51.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/brand-campaign.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Campaign",
+                "itemSubtitle": "<div>Orchestrate content &amp; communications via digital &amp; traditional channels to associate brand with customer \"jobs\". Track, test, tune tactics.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Digital: website, search engine (organic &amp; paid), social media, email &amp; newsletter</li><li>Traditional: press/media, events, direct mail</li><li>Integration: digital &amp; traditional/physical</li><li>Automation: email, social media and more</li><li>Analytics: by channel</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"featured-blocks.html\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-91.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/product-launch.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product Launch|Market Expansion",
+                "itemSubtitle": "<div>Introduce new product or enter new market with pre-launch readiness, launch events, post-launch actions.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p></p><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": true,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/content-creation-1-800x693-39.png",
+                "image": "@PROJECT_PATH@/assets/images/content%20creation_1.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Content Creation",
+                "itemSubtitle": "<div>Develop content theme based on brand|market positioning. Create content to support customer journey and brand|sales campaigns.</div>",
+                "itemPrice": "",
+                "itemDescription": "<ul><li>Content themes</li><li>Customer: viewpoints, case studies/impact stories and more</li><li>Digital: blogs, infographics, videos and more</li><li>Traditional: media articles, press releases, event presentations and more</li></ul>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-12.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/sales-campaign.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Sales Campaign",
+                "itemSubtitle": "<div>Orchestrate content &amp; communications via digital &amp; traditional channels to generate and convert leads. Track, test, tune tactics.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Digital: website, search engine (organic &amp; paid), social media, email &amp; newsletter</li><li>Traditional: press/media, events, direct mail</li><li>Integration: digital &amp; traditional/physical</li><li>Automation: email, social media and more</li><li>Analytics: by channel</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"featured-blocks.html\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-72.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/brand-affinity.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Affinity",
+                "itemSubtitle": "<div>Evaluate/Improve brand association &amp; affinity with customers and employees, partners, investors.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Voice of Customer survey</li><li>Voice of Partner survey</li><li>Interviews &amp; Focus Groups</li><li>Social Listening / Reputation Management</li><li>Social Media Engagement: LinkedIn, Twitter, Facebook, Glassdoor and more</li><li>Digital Community: sharing and learning</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-58.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/voice-of-customer.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Voice of Customer",
+                "itemSubtitle": "<div>Capture customer inputs and feedback to guide strategy, operations, product roadmaps and improve engagement and advocacy.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Customer Survey</li><li>Interviews / Peer Groups</li><li>Advisory Board</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"featured-blocks.html\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-69.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/product-adoption.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product Adoption",
+                "itemSubtitle": "<div><span style=\"letter-spacing: 0px; line-height: 0.9;\">Drive product adoption by enabling customers with marketing &amp; communications tools and forums for learning and sharing.</span></div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><ul><li>Marketing &amp; Communications Tools: pre-built content and templates for customer use</li><li>Customer Conference</li><li>Product/User Groups</li><li>Digital Community: sharing and learning</li></ul><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-6.png",
+                "image": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/customer-advocacy.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Customer Advocacy",
+                "itemSubtitle": "<div><span style=\"letter-spacing: 0px; line-height: 0.9;\">Cultivate customer advocates and referrals by designing and implementing programs.</span></div>",
+                "itemPrice": "",
+                "itemDescription": "<ul><li>Contract clauses</li><li>Event presentations</li><li>Press/Media interviews or articles</li><li>Customer stories</li><li>Peer-to-peer roundtables (live or virtual)<p></p><p></p><p></p></li></ul>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showTitle": false,
+            "showBestSellers": false,
+            "priceRange": false,
+            "filter": true
+          },
+          "_anchor": "extShop1-4i",
+          "title": "Shop",
+          "filter_by_d": "<a class=\"btn btn-primary\">By Growth Stage</a>",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Shuffle</a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Shuffle</a>",
+          "articleLayout": false,
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
+          "sidebar3": "By Marketing Objective",
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED BLOCKS</strong></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/saasify-symbol-black-crop-128x124-17.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "SaaSify.io",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>BUSINESS</strong><br><a href=\"startups.html\" class=\"text-danger\">Startups</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"non-profits.html\" class=\"text-danger\">Non-Profits</a></span><br>",
+          "text2": "<strong>SOLUTIONS</strong><br><a href=\"featured-blocks.html\" class=\"text-danger\">Featured</a><br>",
+          "text3": "<strong>RESOURCES</strong><br><a href=\"privacy.html\" class=\"text-danger\">Privacy</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/saasifyio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "SaaSify.io | Contact Us",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-26",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-49",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_anchor": "form1-2a",
+          "_params": {
+            "labelsColor": "#363636",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONNECT WITH US",
+          "subtitle": "We'd love to discuss your growth challenge!<br><br><b>hello@saasify.io<br>+1 (703) 597-3433</b><br>",
+          "form": {
+            "action": "hello@saasify.io",
+            "alerts": {
+              "success": "Thanks for your interest. We'll be in touch soon!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><strong>LET'S TALK !</strong></a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-29",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "SaaSify.io | About Us",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-37",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "PURPOSE",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#363636"
+            },
+            "UL": {
+              "color": "#363636"
+            },
+            "I": {
+              "color": "#363636"
+            },
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-2q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote>\"<i>Business enterprise has two–and only two–basic functions: <b>marketing</b> &amp; <b>innovation</b></i>\" -&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Peter Drucker</span></blockquote><p><br></p><p>Small to Mid-size organizations, particularly startups and non-profits, innovate with purpose. We founded SaaSify.io with a passion to be your marketing half. Our marketing-as-a-service grows with you to help you succeed in the as-a-service economy: rapidly embrace SaaS business models AND adopt SaaS apps for marketing.</p><p><br></p><p>Organizations rely on marketing to effectively achieve goals and efficiently execute to generate returns. We solve problems in the way:</p><ul><li>strategy not aligned to business goals</li><li>tactics don’t support strategy</li><li>execution disjointed or under-utilize digital</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#606163",
+            "showMeta": true
+          },
+          "title": "PASSION",
+          "meta": "WHY SAASIFY.IO | \"Secret SaaS\""
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features6-2k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#606163",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html",
+              "size": 0,
+              "color": "#3d8eb9",
+              "newWindow": false
+            }
+          },
+          "title1": "GAIN MASTERY",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Know-how, practices and apps are the ingredients for modern marketing. We packaged all these for systematic execution and predictable outcomes.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"marketing-as-a-service.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html",
+              "size": 0,
+              "color": "#3d8eb9",
+              "newWindow": false
+            }
+          },
+          "title2": "GET MARKETING DONE",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Agencies &amp; Apps offer specialized services or software. Our marketing blocks combine both to accomplish specific goals from start-to-finish.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html",
+              "size": 0,
+              "color": "#3d8eb9",
+              "newWindow": false
+            }
+          },
+          "title3": "BRIDGE TO FUTURE",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Digital is must-have but traditional / offline is still in play. We designed marketing blocks to orchestrate both to engage stakeholders on their terms.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html",
+              "size": 0,
+              "color": "#3d8eb9",
+              "newWindow": false
+            }
+          },
+          "title4": "STAY AHEAD",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Marketing Technology is exploding. Our marketing blocks embed emerging apps, automation, analytics, crowdsourcing and more to gain competitive edge.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            },
+            "H3": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "PEOPLE",
+          "meta": "Founder Bio"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#363636"
+            },
+            "I": {
+              "color": "#363636"
+            },
+            "P": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "msg-box5-4u",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hills20151027-7741-jan-2016-crop-1.jpg",
+              "link": "",
+              "alt": "VJ BALA",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VJ Bala<br>",
+          "text": "<i>Founder | CEO &amp; Chief Marketer<br>Advisor for Startups &amp; Non-Profits</i><br><br>I build and scale global marketing for high-growth startups and enterprises tapping 20+ years' experience in strategy, marketing, partnerships, technology, and management consulting. As Executive Team member for 10 years at Inc 500 to Global 1000 firms, I drove 2-4X revenue growth for technology (SaaS, software, services) in healthcare, government and other sectors via multiple levers: brand building, new products, market expansion, demand generation, customer engagement.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.linkedin.com/in/vjbala\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "P": {
+              "color": "#363636"
+            },
+            "DIV": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "extFeatures4-4y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "SENIOR VICE PRESIDENT<div>hCentive, Inc</div>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Led marketing to transform from government to healthcare SaaS (carriers, brokers) and scale for 400% growth to over $50M in 3 years. Setup functions (product marketing, digital, campaigns, inside sales, market analysis), restructured org (US &amp; India), launched SaaS platforms to build brand, market position, sales.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title2": "ASSOCIATE VICE PRESIDENT<div>Infosys Public Services, Inc</div>",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Led strategic marketing to establish the company in public sector and healthcare (payers, providers, pharmacy benefits) for 3X growth to $225M+ in 3 years. Built the team (US &amp; India), introduced SaaS &amp; IT solutions, formed alliances to create brand and market position ground-up.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title3": "HEAD OF MARKETING<div>Infosys</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Repositioned $500M Engineering unit with unified value proposition, established the $50M Mobility \"startup\" as market contender.<br>Led Manufacturing unit to shift from geography to industry go-to-market and grow 2X to $1B+ in 3 years. Built global team (US, UK, India) to lead key segments and penetrate markets.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title4": "SENIOR MARKETING MANAGER<div>IBM Corp</div>",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Grew brand and services for $1B+ Life Sciences unit by shifting positioning from technology to business.<br>Led market/competitive analysis and strategy to deploy corporate brand initiatives, introduce IT &amp; business solutions, guide unit &amp; country marketing programs.<br>Consultant: high-tech &amp; government.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "SaaSify.io | Privacy",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3a",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2y",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "PRIVACY",
+          "meta": "\"Secret SaaS\""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-34",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>What we do with your information</b></p><p><br></p><p>1. The term “Personal Information” as used herein is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information pertains. The Personal Information that we collect will be subject to this Privacy Policy, as amended from time to time.</p><p><br></p><p>2. When you register for SAASIFY LLC we ask for your email address.</p><p><br></p><p>3. SAASIFY LLC uses the information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</p><p><br></p><p>4. As part of the buying and selling process on SAASIFY LLC, you will obtain the email address and/or shipping address of your customers. By entering into our User Agreement, you agree that, with respect to other users’ Personal Information that you obtain through SAASIFY LLC or through a SAASIFY LLC-related communication or SAASIFY LLC-facilitated transaction, SAASIFY LLC hereby grants to you a license to use such information only for SAASIFY LLC-related communications that are not unsolicited commercial messages. SAASIFY LLC does not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add the name of someone who has purchased an item from you, to your mail list (email or physical mail) without their express consent.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>When you sign up you provide personal information which we collect and use. For the check-out process we also collect your credit card information. Only use your SAASIFY LLC customers’ information for SAASIFY LLC-related communications, unless they give you permission otherwise. Don’t spam anyone!</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Security</span><br></b></p><p><br></p><p>The security of your personal information is important to us. When you enter sensitive information, such as credit card number on our registration form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider we follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at hello@saasify.io.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will encrypt your credit card and sensitive information at industry standards. Because stuff happens, we can’t guarantee 100% security of your data. If you have questions email hello@saasify.io</p><p><br></p><p><b>Disclosure</b></p><p><br></p><p>1. SAASIFY LLC may use third party service providers to provide certain services to you and we may share Personal Information with such service providers. We require any company with which we may share Personal Information to protect that data in a manner consistent with this policy and to limit the use of such Personal Information to the performance of services for SAASIFY LLC.</p><p><br></p><p>2. SAASIFY LLC may disclose Personal Information under special circumstances, such as to comply with court orders requiring us to do so or when your actions violate the Terms of Service.</p><p><br></p><p>3. We do not sell or otherwise provide Personal Information to other companies for the marketing of their own products or services.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>In certain circumstances, we may disclose your personal information, like court orders.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Client Data Storage</span><br></b></p><p><br></p><p>SAASIFY LLC owns the data storage, databases and all rights to the SAASIFY LLC application however we make no claim to the rights of your data. You retain all rights to your data and we will never contact your clients directly, or use your data for our own business advantage or to compete with you or market to your clients.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>You own your data and we will respect that. We won’t try and compete with you or write to your customers.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cookies</span><br></b></p><p><br></p><p>A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Every computer that accesses our website is assigned a different cookie by us.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Google Analytics and Remarketing</span><br></b></p><p><br></p><p>We use a service provided by Google called Google Analytics. Google Analytics permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network. This is often called ‘remarketing’.</p><p><br></p><p>Cookies can be used to track your session on our website, to serve customized ads from Google and other third party vendors. When you visit this website, you may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that you will see.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Opting Out</span><br></b></p><p><br></p><p>You may be able to opt out of customized Google Display Network ads by visiting the Ads Preferences Manager ([http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)), and the Google Analytics Opt-out Browser Add-on ([http://www.google.ca/ads/preferences/plugin/](http://www.google.ca/ads/preferences/plugin/)).</p><p><br></p><p>Your use of this website without opting out means that you understand and agree to data collection to provide you with remarketing ads using GA and cookies from other third party vendors based on your prior visits to this website and elsewhere on the Internet.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>To identify you electronically, a cookie will be stored on your computer. We have a “remarketing” tool running that allows us to take note of your visits to our site and show you relevant ads on our website and across the Internet. You can always opt out.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">PCI-DSS</span><br></b></p><p><br></p><p>The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security requirements managed by the PCI Security Standards Council, a joint effort of the payment brands, including Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by merchants and service providers.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will use industry standards in security, the same ones used by the big credit card companies, to help you keep a secure SAASIFY LLC account.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Changes to this Privacy Policy</span><br></b></p><p><br></p><p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We may change this Privacy Statement. If it’s a big change, we will inform you, right here.</p><p><br></p><p><b>Questions</b></p><p><br></p><p>Any questions about this Privacy Policy should be addressed to hello@saasify.io or by mail to 12506 Fox View Way, Reston, VA 20191</p><p><br></p><p><i>Updated: October 1, 2016</i></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-30",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-33",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "startups.html": {
+      "settings": {
+        "title": "SaaSify.io | Startups",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3a",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-3b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/small-business-startup-resize.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Startup Founders &amp; CEOs:",
+          "text": "Realize your vision and go big with marketing that scales as you grow.<br>[tech startups, health-tech, professional services, VC/PE portfolios, and more]<br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Let's Do It Together !</a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#363636"
+            },
+            "H3": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Marketing For Growth",
+          "meta": "40% of top 20 reasons startups fail are marketing related led by market need and competition. How do you ensure market fit and compete to gain mindshare for your promise and marketshare for your product with limited marketing investment, team or capability?&nbsp;Build your own Marketing-As-Service to take on your specific brand, product, customer demand or retention objective.<br>"
+        },
+        {
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures2",
+          "_styles": {
+            "P": {
+              "color": "#606163"
+            },
+            ".intro-box h4": {
+              "color": "#363636"
+            },
+            "H2": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "extFeatures2-4z",
+          "_params": {
+            "elements": "3",
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures2_bg_1.jpg",
+            "bgColor": "#e9e9e9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showIcons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/chief-marketing-officer-2.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title": "CMO SERVICES",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title1": "START",
+          "text1": "Prioritize markets and products, develop brand and market positioning, plan tactics and scorecard, create brand presence, assess product-market fit.<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title2": "SCALE",
+          "text2": "Launch products, expand markets, run brand and fundraising campaigns.<br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title3": "SUSTAIN",
+          "text3": "Engage customers, run retention programs, generate advocates, capture customer voice into products and go-to-market.<br>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title4": "MOBIRISE WEBSITE BUILDER",
+          "text4": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-3d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#606163"
+            },
+            ".mbr-section-title": {
+              "color": "#363636"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#606163"
+            },
+            "DIV": {
+              "color": "#363636"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-3h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Marketing-As-A-Service Example",
+          "subtitle": "<b>Scenario</b>: You set strategy, built a minimum product and basic brand presence. Ready to validate market fit and drive customer acquisition?<br>",
+          "feature_title1": "Market Positioning",
+          "feature_subtitle1": "Value | Strengths | Differentiation",
+          "feature_text1": "Define value proposition and key messages for target markets/customers with promise and products.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "scope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Product-Market Fit",
+          "feature_subtitle2": "Market | Customers | Competition | Product",
+          "feature_text2": "Validate market readiness and brand promise. Assess product capabilities against customer needs/pains, competition/alternatives. Guide product roadmap and market positioning.&nbsp;<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/business-growth-background-4.png",
+              "active": true,
+              "link": "",
+              "alt": "Marketing-As-A-Service",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "profile-female",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Customer Profile",
+          "feature_subtitle4": "Target List | Content Map",
+          "feature_text4": "Identify target customers, build personas and contact list for campaigns.&nbsp;Define customer journey and map content, communications, call-to-action.<br>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Sales Campaign",
+          "feature_subtitle5": "Digital &amp; Offline | Automation | Analytics",
+          "feature_text5": "Orchestrate content and communications across channels - dgital (web, search, social, email, ads) &amp; offline (PR, events). Engage/Nurture customers and generate leads via trigger and planned campaigns. Track, test, tune tactics.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL BLOCKS</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED BLOCKS</strong></a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "featured-blocks.html": {
+      "settings": {
+        "title": "SaaSify.io | Featured Blocks",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3a",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            },
+            ".features-list i": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader3-3n",
+          "_params": {
+            "iconsColor": "#ffffff",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jigsaw-puzzle-concept.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showIcons": false,
+            "showTitles": false,
+            "showArrow": true
+          },
+          "title": "FEATURED MARKETING BLOCKS",
+          "text": "Select ablocks by growth stage or objective to build your own Marketing-As-A-Service.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#header3-1m",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title1": "SETUP",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title2": "START",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title3": "SCALE",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title4": "SUSTAIN"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "BRAND | MARKET POSITIONING",
+          "meta": "Position brand with stakeholders or product in the market<br>[<b>SaaSify GPS Framework</b>: Values-Strengths-Differentiators]"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px",
+              "color": "#363636"
+            },
+            ".card-subtitle": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-subtitle SPAN": {
+              "color": "#606163"
+            }
+          },
+          "_anchor": "extFeatures14-3p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "background1": "1",
+          "title1": "Audience",
+          "subtitle1": "<span style=\"font-style: normal;\">Markets | Segments</span>",
+          "caption1": "Target stakeholders for the brand (customers, employees, investors) or product (market / segment).<br>Analyze stakeholder motivations, preferences, competitive alternatives.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background2": "2",
+          "title2": "Premise",
+          "subtitle2": "<span style=\"font-style: normal;\">Brand | Market</span>",
+          "caption2": "WHAT is the problem? WHY does it need to be solved? WHY now?<br>Articulate core purpose and promise of the brand or product to the target audience.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background3": "3",
+          "title3": "Proposition",
+          "subtitle3": "<span style=\"font-style: normal;\">Tactics | Timing | Budgets</span>",
+          "caption3": "Brand or product value propostion:<br>WHO - Audience<br>WHAT – Problem, Product, Value<br>HOW – Strengths &amp; Differentiators<br>WHY – Proof Points<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background4": "4",
+          "title4": "Messages",
+          "subtitle4": "<span style=\"font-style: normal;\">Metrics | Goals</span>",
+          "caption4": "Define clear, compelling messages by target audience for top problems and value drivers.<br>Format messages for consistent action via different channels.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-46",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#606163",
+            "showMeta": true
+          },
+          "title": "BRAND PRESENCE",
+          "meta": "Build digital presence as foundation for outreach"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".iconbox": {
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-45",
+          "_params": {
+            "iconsBgColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#606163",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Brand Identity &amp; Guide",
+          "subtitle1": "WHO &amp; STORY",
+          "caption1": "Purpose: Why? Vision, Mission, Values<br>Promise: What value offered, how distinct, why organization.<br>Guide: Visual (logo, palette), Style (voice, tone), Templates (collateral, presentations, proposals, letters, etc).",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Website",
+          "subtitle2": "\"HUB\" TO DRAW/DIRECT AUDIENCE",
+          "caption2": "Business website designed to draw/direct audience.<br>Reflect brand identity and brand &amp; market positioning.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Social Media &amp; Directories",
+          "subtitle3": "\"SPOKES\" TO AMPLIFY REACH &amp; MESSAGE",
+          "caption3": "Profiles: LinkedIn, Twitter, Facebook, Glassdoor etc.<br>Directories: Google My Business, Wikipedia, DUNS, Hoovers, industry-specific.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title4": "Search Engine",
+          "subtitle4": "OPTIMIZE SEO &nbsp;PRESENCE FOR INBOUND",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Keyword/Topics research.</span><br>Competitive analysis.<br>On-page (website) optimization.<br> Off-page (external) optimization.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "CUSTOMER PROFILE",
+          "meta": "[<b>SaaSify Funnel Framework</b>: Leads estimate from revenue goal and conversion]"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H4": {
+              "color": "#363636"
+            },
+            ".card-subtitle": {
+              "color": "#606163"
+            },
+            "P": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "extFeatures4-47",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title1": "Target Customers",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Identify/Select customers and prospects to target.<br>Segment target customers based on relevant criteria: product-fit, demographic, behavioral or purchase/propensity pattern.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "user2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "200",
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title2": "Customer Personas",
+          "subtitle2": "ad",
+          "caption2": "Develop customer personas: profile (title/role),&nbsp;motivation (pains, priorities, preferences), competitive alternatives (in-house, incumbent, other), constraints (budget, resources, systems).",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "contact-form",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "200",
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title3": "Contact List",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Build and validate contact list for target customers, acquire organically or purchase to fill gaps.<br>Segment list for campaigns based on customer and persona analysis.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "200",
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title4": "Customer Journey | Content Map",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Define customer journey and triggers to reach, engage, nurture (time, event, action etc).<br>Map content, communications, call-to-action for campaigns.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".feature-subtitle": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#cccccc"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-48",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#606163",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "BRAND | SALES CAMPAIGN",
+          "subtitle": "Orchestrate content &amp; communications - digital &amp; offline channels, automation, analytics<br>[<b>SaaSify Orchestration Framework</b>: Proprietary Tools + Commercial Apps + Crowdsourcing]<br>",
+          "feature_title1": "Website",
+          "feature_subtitle1": "Web Pages | &nbsp;Blog | Content&nbsp;",
+          "feature_text1": "Optimize website pages and content for target audience. Add campaign landing page with focus content and call-to-action. Create/Promote blog content and articles relevant to campaign.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "feature_title2": "Social Media",
+          "feature_subtitle2": "Conversations | Advertisements",
+          "feature_text2": "Promote campaign theme and content via social media posts, updates, advertisements (banner, sponsored, etc).<br>Engage target audience and influencers via conversations relevant to campaign.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/orchestrate-marketing-1.jpg",
+              "active": true,
+              "link": "",
+              "alt": "Brand | Sales Campaign",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "feature_title4": "Search Engine",
+          "feature_subtitle4": "Organic SEO | Paid SEM",
+          "feature_text4": "Analyze keywords/topics and competition. Optimize for search - website, content, links (quality vs quantity). Set budget to buy and place campaign advertisements (AdWords, display, retargeting, etc).",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "feature_title5": "Email &amp; Newsletter",
+          "feature_subtitle5": "Triggers | Nurture | Call-to-Action",
+          "feature_text5": "Craft and schedule email communications. Define sequence based on customer journey map. Nurture based on triggers (time, event, action, etc)."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-43",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "VOICE OF CUSTOMER",
+          "meta": "Capture and incorporate customer voice into strategy, operations, products"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#606163"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#363636"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "features2-41",
+          "_params": {
+            "columnsColor": "#606163",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "",
+              "newWindow": false,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Customer Survey",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Design/Implement customer survey to capture multi-dimensional feedback: satisfaction, loyalty, advocacy (NPS); experience (key touch-points), brand affinity.<br>Analyze feedback score to project potential impact and recommend actions.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "chat",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#000000"
+            }
+          },
+          "title2": "Interviews / Peer Groups",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Design/Conduct 1:1 interviews or facilitate peer group conversations with select customers for in-depth insights.<br>Analyze inputs to provide actionable guidance to strategy, operations, products.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#ffffff"
+            }
+          },
+          "title3": "Advisory Board",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Structure Customer Advisory Board for strategic inputs and engagement - charter, composition, cadence, content and more.&nbsp;Setup governance and operations (recruiting, agenda, format, metrics etc).",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-3t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL BLOCKS</strong></a> "
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "non-profits.html": {
+      "settings": {
+        "title": "SaaSify.io | Non-Profits",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-49",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-4a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/non-profit.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Non-Profit Boards &amp; Executive Directors:",
+          "text": "Power your mission and amplify impact with commercial-grade marketing.<br>[charities, foundations, associations, social enterprises, and more]<br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Let's Do It Together !</a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#363636"
+            },
+            "H3": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Marketing For Impact",
+          "meta": "Over 1.5 million nonprofits in the US are competing for mindshare for various missions. How do you gain mindshare for your mission and marketshare for your programs with limited marketing budgets, staff or capability? Build your own Marketing-As-Service to take on your specific brand, market, fundraising or stewardship objective.<br>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-4c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures2",
+          "_styles": {
+            "P": {
+              "color": "#606163"
+            },
+            ".intro-box h4": {
+              "color": "#363636"
+            },
+            "H2": {
+              "color": "#363636"
+            }
+          },
+          "_anchor": "extFeatures2-4r",
+          "_params": {
+            "elements": "3",
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures2_bg.jpg",
+            "bgColor": "#e9e9e9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showIcons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/chief-marketing-officer-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title": "CMO SERVICES",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title1": "START",
+          "text1": "Prioritize markets and programs, develop brand and market positioning, plan tactics and scorecard, create brand presence, assess program-market fit.<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title2": "SCALE",
+          "text2": "Launch programs, expand markets, run brand and fundraising campaigns.<br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title3": "SUSTAIN",
+          "text3": "Engage constituents, run stewardship programs, generate ambassadors, capture donor voice into programs and outreach.<br>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title4": "MOBIRISE WEBSITE BUILDER",
+          "text4": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#606163"
+            },
+            ".mbr-section-title": {
+              "color": "#363636"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#606163"
+            },
+            "DIV": {
+              "color": "#363636"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-4d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Marketing-As-A-Service Example",
+          "subtitle": "<b>Scenario</b>: You set strategy, built basic brand presence, validated demand for your program. Ready to raise constituent engagement and funds?<br>",
+          "feature_title1": "Market Positioning",
+          "feature_subtitle1": "Value | Strengths | Differentiation",
+          "feature_text1": "Define value proposition and key messages for target markets/constituents with causes and programs.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "scope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Brand Campaign",
+          "feature_subtitle2": "Content | Communications | Digital &amp; Offline",
+          "feature_text2": "Orchestrate conversations and content across channels - digital (web, search, social, email, ads) &amp; offline (PR, events). Build awareness for organization mission &amp; programs and engage donors via trigger and planned campaigns. Track, test, tune tactics.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/business-growth-background-4.png",
+              "active": true,
+              "link": "",
+              "alt": "Marketing-As-A-Service",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "profile-female",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Constituent Profile",
+          "feature_subtitle4": "Target List | Content Map",
+          "feature_text4": "Identify target constituents, build personas for campaigns.&nbsp;Individual Donors: Define journey and map content, communications, call-to-action.&nbsp;Corporate Sponsors: Build contact list and map outreach, channels.",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Fundraising Campaign",
+          "feature_subtitle5": "Digital &amp; Offline | Automation | Analytics",
+          "feature_text5": "Orchestrate content and communications across channels - dgital (web, search, social, email, ads) &amp; offline (PR, events). Engage/Nurture donors and generate leads via trigger and planned campaigns. Track, test, tune tactics.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL BLOCKS</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED BLOCKS</strong></a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-4f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "#marketing-blocks.html": {
+      "settings": {
+        "title": "SaaSify.io | Marketing Blocks",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1c1c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2e2e2e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#363636"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#363636!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3a",
+          "_params": {
+            "bgColor": "#363636",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "SaaSify.io | Marketing",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            },
+            ".features-list i": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader3-1y",
+          "_params": {
+            "iconsColor": "#ffffff",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/business-teamwork-on-puzzle-pieces-to-success-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showIcons": true,
+            "showTitles": true,
+            "showArrow": true
+          },
+          "title": "MARKETING BLOCKS",
+          "text": "Select a block for your growth stage or objective. Connect more to build your own Marketing-As-A-Service.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#header3-1m",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title1": "SETUP",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title2": "START",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title3": "SCALE",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "marketing-as-a-service.html#extShop1-38",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "title4": "SUSTAIN"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#363636"
+            },
+            "SMALL": {
+              "color": "#606163"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "SETUP",
+          "meta": "CMO/Chief Marketing Officer Strategic Services"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px",
+              "color": "#363636"
+            },
+            ".card-subtitle": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".card-subtitle SPAN": {
+              "color": "#606163"
+            }
+          },
+          "_anchor": "extFeatures14-1n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "background1": "1",
+          "title1": "Prioritize",
+          "subtitle1": "<span style=\"font-style: normal;\">Markets | Segments</span>",
+          "caption1": "Select markets/customers &amp; products and set marketing objectives based on growth levers.<br>Segment markets/customers for products and positioning.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background2": "2",
+          "title2": "Position",
+          "subtitle2": "<span style=\"font-style: normal;\">Brand | Market</span>",
+          "caption2": "Brand - Articulate purpose and promise to customers and employees, partners, investors.<br>Market - Define offering value proposition and key messages.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background3": "3",
+          "title3": "Plan",
+          "subtitle3": "<span style=\"font-style: normal;\">Tactics | Timing | Budgets</span>",
+          "caption3": "Design campaigns, create calendar, assign resources to achieve marketing objectives.<br> Connect content, communications, channels: digital, offline, partner.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background4": "4",
+          "title4": "Perform",
+          "subtitle4": "<span style=\"font-style: normal;\">Metrics | Goals</span>",
+          "caption4": "Define/Select metrics with line-of-sight to business goals and set targets. Measure performance against marketing objectives: operational &amp; outcomes.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#363636"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-39",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "START &gt; SCALE &gt; SUSTAIN",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "@titleFont"
+            },
+            ".item-subtitle": {
+              "font-family": "@subtitleFont"
+            },
+            ".card-description": {
+              "font-family": "@textFont"
+            },
+            ".shop-item-price": {
+              "font-family": "@titleFont"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extShop1",
+          "_params": {
+            "showSidebar": true,
+            "showSortButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": true,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-5148.png",
+                "image": "@PROJECT_PATH@/assets/images/brand-presence.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Presence",
+                "itemSubtitle": "<div>Create brand identity and digital presence to anchor (hub) and propagate (spokes) brand.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Create brand identity and digital presence to anchor (hub) and propagate (spokes) brand.</p><p><br></p><ul><li>Brand Identity &amp; Guide</li><li>Website<br></li><li>Social Media &amp; Directories</li><li>Search Engine</li></ul><p><br></p><p></p><p></p><pre>TAGS:&nbsp;START | BRAND</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-7749.png",
+                "image": "@PROJECT_PATH@/assets/images/product-market-fit.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product-Market Fit",
+                "itemSubtitle": "<div>Assess match of customer value with product strengths and differentiation. Guide product roadmap and market positioning.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Assess match of customer value with product strengths and differentiation. Guide product roadmap and market positioning</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;START | MARKET</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-3350.png",
+                "image": "@PROJECT_PATH@/assets/images/customer-profile.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Customer Profile",
+                "itemSubtitle": "<div>Identify target customers, build personas and contacts for campaigns. Define customer journey and map content, communications, call-to-action.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Identify target customers, build personas and contacts for campaigns. Define customer journey and map content, communications, call-to-action.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;START | CUSTOMER</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-8751.png",
+                "image": "@PROJECT_PATH@/assets/images/sales-enablement.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Sales Enablement",
+                "itemSubtitle": "<div>Map marketing, sales, partner coverage for markets / customers. Create collateral and tools to enable sales and partners.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Map marketing, sales, partner coverage for markets / customers. Create collateral and tools to enable sales and partners.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;START | CUSTOMER</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-5152.png",
+                "image": "@PROJECT_PATH@/assets/images/brand-campaign.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Campaign",
+                "itemSubtitle": "<div>Orchestrate content &amp; communications via digital &amp; offline to associate brand with customer \"jobs\". Track, test, tune tactics.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Orchestrate content &amp; communications via digital &amp; offline to associate brand with customer \"jobs\". Track, test, tune tactics.</p><ul><li>Integration: digital &amp; offline</li><li>Automation: email, social media and more</li><li>Analytics: by channel</li></ul><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SCALE | BRAND</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-9153.png",
+                "image": "@PROJECT_PATH@/assets/images/product-launch.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product Launch",
+                "itemSubtitle": "<div>Introduce new product in current market with pre-launch readiness, launch events, post-launch actions.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Introduce new product in current market with pre-launch readiness, launch events, post-launch actions.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SCALE | MARKET</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/market-expansion-3000x2600-86.png",
+                "image": "@PROJECT_PATH@/assets/images/market-expansion.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Market Expansion",
+                "itemSubtitle": "<div>Take current product to new market with pre-launch readiness, launch events, post-launch actions.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Take current product to new market with pre-launch readiness, launch events, post-launch actions.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SCALE | MARKET</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-1254.png",
+                "image": "@PROJECT_PATH@/assets/images/sales-campaign.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Sales Campaign",
+                "itemSubtitle": "<div>Orchestrate content &amp; communications via digital &amp; offline to generate and convert customer leads. Track, test, tune tactics.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Orchestrate content &amp; communications via digital &amp; offline to generate and convert customer leads. Track, test, tune tactics.</p><ul><li>Integration: digital &amp; offline</li><li>Automation: email, social media and more</li><li>Analytics: by channel</li></ul><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SCALE | CUSTOMER</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-7255.png",
+                "image": "@PROJECT_PATH@/assets/images/brand-affinity.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Brand Affinity",
+                "itemSubtitle": "<div>Assess brand association &amp; affinity with customers and employees, partners, investors.</div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Assess brand association &amp; affinity with customers and employees, partners, investors.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SUSTAIN | BRAND</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Brand",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-5856.png",
+                "image": "@PROJECT_PATH@/assets/images/voice-of-customer.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Voice of Customer",
+                "itemSubtitle": "<div>Capture multi-dimensional customer feedback including NPS. Setup a<span style=\"letter-spacing: 0px; line-height: 0.9;\">dvisory board for inputs and engagement</span><span style=\"letter-spacing: 0px; line-height: 0.9;\">.</span></div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Capture multi-dimensional customer feedback including NPS. Setup advisory board for inputs and engagement.</p><p><br></p><ul><li>Customer Survey</li><li>Interviews | Peer Groups</li><li>Advisory Board</li></ul><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SUSTAIN | BRAND</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Market",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-6957.png",
+                "image": "@PROJECT_PATH@/assets/images/product-adoption.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Product Adoption",
+                "itemSubtitle": "<div><span style=\"letter-spacing: 0px; line-height: 0.9;\">Drive product adoption by enabling customers with marketing &amp; communications tools and forums for learning and sharing.</span></div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Drive product adoption by enabling customers with marketing &amp; communications tools and forums for learning and sharing.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SUSTAIN | MARKET</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Customer",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-658.png",
+                "image": "@PROJECT_PATH@/assets/images/customer-advocacy.png",
+                "onsale": "*",
+                "onSale": false,
+                "itemTitle": "Customer Advocacy",
+                "itemSubtitle": "<div><span style=\"letter-spacing: 0px; line-height: 0.9;\">Cultivate customer advocates and referrals by designing and implementing programs.</span></div>",
+                "itemPrice": "",
+                "itemDescription": "<p></p><p>Cultivate customer advocates and referrals by designing and implementing programs.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SUSTAIN | CUSTOMER</pre><p></p>",
+                "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showTitle": false,
+            "showBestSellers": false,
+            "priceRange": false,
+            "filter": true
+          },
+          "_anchor": "extShop1-38",
+          "title": "Shop",
+          "filter_by_d": "<a class=\"btn btn-primary\">Blocks by Stage</a>",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Shuffle</a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Shuffle</a>",
+          "articleLayout": false,
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
+          "sidebar3": "Marketing Objective",
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED BLOCKS</strong></a> "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1x",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    }
+  }
+}
