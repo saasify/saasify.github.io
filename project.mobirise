@@ -1402,7 +1402,7 @@
             }
           },
           "title": "VJ Bala<br>",
-          "text": "<i>Founder | CEO &amp; Chief Marketer<br></i><br>I build and scale global marketing for high-growth startups and enterprises (&lt;$50M to $2B) with 20+ years of business (strategy, marketing, partnerships), technology and consulting experience at Fortune 500 to Inc 500. As Executive Team member for 10 years, I drove 2-4X growth for 5 technology businesses in healthcare, government, manufacturing and other sectors by building brand, market position, and sales.<br><br>For startups, enterprises with new business focus, and non-profits, I help realize growth through marketing levers: brand building, new products/markets, demand creation, customer engagement.<br>",
+          "text": "<i>Founder | CEO &amp; Chief Marketer<br></i><br>I build and scale global marketing for high-growth startups and enterprises (&lt;$50M to $2B) with 20+ years of business (strategy, marketing, partnerships), technology and consulting experience at Fortune 500 to Inc 500. As Executive Team member for 10 years, I drove 2-4X growth for 5 technology businesses in healthcare, government, manufacturing and other sectors by building brand, market position, and sales.<br><br>For startups and non-profits, I help tap multiple marketing levers for growth: brand building, new products/markets, demand creation, customer engagement.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.linkedin.com/in/vjbala\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a>"
         },
         {
@@ -2184,7 +2184,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL SERVICES</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED</strong></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL SERVICES</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED</strong></a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2656,7 +2656,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL SERVICES</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured-blocks.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED</strong></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL SERVICES</strong></a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"featured.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE FEATURED</strong></a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -3082,7 +3082,7 @@
                 "active": true,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-5111.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-presence-3000x2600-5133.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-presence.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3098,7 +3098,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-7712.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-market-fit-3000x2600-7734.png",
                 "image": "@PROJECT_PATH@/assets/images/product-market-fit.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3114,7 +3114,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-3313.png",
+                "thumb": "@PROJECT_PATH@/assets/images/customer-profile-3000x2600-3335.png",
                 "image": "@PROJECT_PATH@/assets/images/customer-profile.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3130,7 +3130,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-8714.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sales-enablement-3000x2600-8736.png",
                 "image": "@PROJECT_PATH@/assets/images/sales-enablement.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3146,7 +3146,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-5115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-campaign-3000x2600-5137.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-campaign.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3162,7 +3162,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-9116.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-launch-3000x2600-9138.png",
                 "image": "@PROJECT_PATH@/assets/images/product-launch.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3194,7 +3194,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-1217.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sales-campaign-3000x2600-1239.png",
                 "image": "@PROJECT_PATH@/assets/images/sales-campaign.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3210,7 +3210,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-7218.png",
+                "thumb": "@PROJECT_PATH@/assets/images/brand-affinity-3000x2600-7240.png",
                 "image": "@PROJECT_PATH@/assets/images/brand-affinity.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3226,7 +3226,7 @@
                 "active": false,
                 "tags": "Brand",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-5819.png",
+                "thumb": "@PROJECT_PATH@/assets/images/voice-of-customer-3000x2600-5841.png",
                 "image": "@PROJECT_PATH@/assets/images/voice-of-customer.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3242,7 +3242,7 @@
                 "active": false,
                 "tags": "Market",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-6920.png",
+                "thumb": "@PROJECT_PATH@/assets/images/product-adoption-3000x2600-6942.png",
                 "image": "@PROJECT_PATH@/assets/images/product-adoption.png",
                 "onsale": "*",
                 "onSale": false,
@@ -3258,7 +3258,7 @@
                 "active": false,
                 "tags": "Customer",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-621.png",
+                "thumb": "@PROJECT_PATH@/assets/images/customer-advocacy-3000x2600-643.png",
                 "image": "@PROJECT_PATH@/assets/images/customer-advocacy.png",
                 "onsale": "*",
                 "onSale": false,
@@ -4292,7 +4292,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><p><strong>SEE ALL SERVICE</strong><strong>S</strong></p></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>SEE ALL SERVICES</strong></a> "
         },
         {
           "_inherit": "social-buttons2",
