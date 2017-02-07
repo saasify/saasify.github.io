@@ -704,7 +704,7 @@ h6,
 #menu-37 .navbar-caption {
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 #menu-37 .navbar-toggler {
   color: #ffffff;
@@ -715,11 +715,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-37 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-37 .dropdown-item,
 #menu-37 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-37 .link:hover,
 #menu-37 .dropdown-item:hover,
@@ -769,7 +769,7 @@ h6,
   background-color: #ffffff;
 }
 #menu-37 .btn {
-  font-size: 11px;
+  font-size: 12px;
 }
 #content1-4n P {
   text-align: center;
