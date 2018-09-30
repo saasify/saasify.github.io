@@ -17,22 +17,25 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 185,
-    "versionPublish": "3.11.1",
+    "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/saasify-symbol-black-crop.svg",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-89641209-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "SaaSify.io | Marketing Playbook for the As-A-Service Economy",
+        "title": "SaaSify | Marketing Playbook for the As-A-Service Economy",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -110,6 +113,12 @@
           "_name": "menu",
           "_anchor": "menu-37",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.9",
             "fontName": {
@@ -118,23 +127,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
-              "linkInNewWindow": false
+              "title": "SaaSify | Marketing"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -150,23 +152,23 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/way-to-success-1.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.5"
           },
           "title": "Marketing playbook for the as-a-service economy",
           "text": "Scale for growth with Strategic Marketing and Marketing-As-A-Service",
@@ -214,10 +216,10 @@
           "_name": "header3",
           "_anchor": "header3-4m",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc",
-            "showMeta": true
+            "bgColor": "#cccccc"
           },
           "title": "STRATEGIC MARKETING",
           "meta": "CMO Services to set market strategy and positioning with plans and metrics for growth."
@@ -234,15 +236,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -260,26 +262,26 @@
           },
           "_anchor": "extFeatures4-4l",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
           },
           "media1": {
             "iconFont": {
@@ -368,10 +370,10 @@
           "_name": "header3",
           "_anchor": "header3-4j",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#cccccc",
-            "showMeta": true
+            "bgColor": "#cccccc"
           },
           "title": "MARKETING-AS-A-SERVICE",
           "meta": "Turnkey content, digital and account marketing to achieve brand, market and customer goals."
@@ -431,10 +433,15 @@
           ],
           "_name": "extShop1",
           "_params": {
+            "showTitle": false,
             "showSidebar": true,
             "showSortButtons": false,
+            "showBestSellers": false,
+            "priceRange": false,
+            "filter": true,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "bgColor": "#fff",
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
             "mainTitle": "@titleFont",
@@ -633,12 +640,7 @@
                 "itemDescription": "<ul><li>Contract clauses</li><li>Event presentations</li><li>Press/Media interviews or articles</li><li>Customer stories</li><li>Peer-to-peer roundtables (live or virtual)<p></p><p></p><p></p></li></ul>",
                 "button": "<a data-app-btn=\"true\" href=\"index.html#header3-4j\" class=\"btn btn-primary\">More</a>"
               }
-            ],
-            "bgColor": "#fff",
-            "showTitle": false,
-            "showBestSellers": false,
-            "priceRange": false,
-            "filter": true
+            ]
           },
           "_anchor": "extShop1-4i",
           "title": "Shop",
@@ -679,15 +681,15 @@
           "_anchor": "contacts1-s",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -725,22 +727,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/saasifyio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/saasifyio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "contact.html": {
       "settings": {
-        "title": "SaaSify.io | Contact Us",
+        "title": "SaaSify | Contact Us",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -760,15 +762,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_styles": {
@@ -840,6 +842,12 @@
           "_name": "menu",
           "_anchor": "menu-49",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -848,22 +856,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -890,24 +892,24 @@
           },
           "_anchor": "form1-2a",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#363636",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONNECT WITH US",
-          "subtitle": "Let us tackle your growth challenge!<br><br><b>hello@saasify.io<br>+1 (434) TRY-SAAS</b><br>",
+          "subtitle": "Let us tackle your growth challenge!<br><br><b>hello@saasify.net<br>+1 (434) TRY-SAAS</b><br>",
           "form": {
-            "action": "hello@saasify.io",
+            "action": "hello@saasify.net",
             "alerts": {
               "success": "Thanks for your interest. We'll be in touch soon!"
             },
@@ -951,22 +953,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "about.html": {
       "settings": {
-        "title": "SaaSify.io | About Us",
+        "title": "SaaSify | About Us",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1044,6 +1046,12 @@
           "_name": "menu",
           "_anchor": "menu-37",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -1052,22 +1060,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1094,10 +1096,10 @@
           "_name": "header3",
           "_anchor": "header3-2s",
           "_params": {
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": false
+            "bgColor": "#ffffff"
           },
           "title": "PURPOSE",
           "meta": "By John Smith posted July 20, 2016"
@@ -1147,10 +1149,10 @@
           "_name": "header3",
           "_anchor": "header3-2r",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#606163",
-            "showMeta": true
+            "bgColor": "#606163"
           },
           "title": "PASSION",
           "meta": "WHY SAASIFY.IO | OUR SECRET \"SAAS\""
@@ -1171,26 +1173,26 @@
           },
           "_anchor": "features6-2k",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#606163",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": false,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#606163",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -1310,10 +1312,10 @@
           "_name": "header3",
           "_anchor": "header3-4v",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "PEOPLE",
           "meta": "Founder Bio"
@@ -1330,15 +1332,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_tags": [
@@ -1359,25 +1361,25 @@
           },
           "_anchor": "msg-box5-4u",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1427,26 +1429,26 @@
           },
           "_anchor": "extFeatures4-4y",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
           },
           "media1": {
             "iconFont": {
@@ -1525,22 +1527,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "privacy.html": {
       "settings": {
-        "title": "SaaSify.io | Privacy",
+        "title": "SaaSify | Privacy",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1618,6 +1620,12 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -1626,22 +1634,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1671,10 +1673,10 @@
           "_name": "header3",
           "_anchor": "header3-2y",
           "_params": {
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "PRIVACY",
           "meta": "\"Secret SaaS\""
@@ -1690,7 +1692,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>What we do with your information</b></p><p><br></p><p>1. The term “Personal Information” as used herein is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information pertains. The Personal Information that we collect will be subject to this Privacy Policy, as amended from time to time.</p><p><br></p><p>2. When you register for SAASIFY LLC we ask for your email address.</p><p><br></p><p>3. SAASIFY LLC uses the information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</p><p><br></p><p>4. As part of the buying and selling process on SAASIFY LLC, you will obtain the email address and/or shipping address of your customers. By entering into our User Agreement, you agree that, with respect to other users’ Personal Information that you obtain through SAASIFY LLC or through a SAASIFY LLC-related communication or SAASIFY LLC-facilitated transaction, SAASIFY LLC hereby grants to you a license to use such information only for SAASIFY LLC-related communications that are not unsolicited commercial messages. SAASIFY LLC does not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add the name of someone who has purchased an item from you, to your mail list (email or physical mail) without their express consent.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>When you sign up you provide personal information which we collect and use. For the check-out process we also collect your credit card information. Only use your SAASIFY LLC customers’ information for SAASIFY LLC-related communications, unless they give you permission otherwise. Don’t spam anyone!</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Security</span><br></b></p><p><br></p><p>The security of your personal information is important to us. When you enter sensitive information, such as credit card number on our registration form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider we follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at hello@saasify.io.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will encrypt your credit card and sensitive information at industry standards. Because stuff happens, we can’t guarantee 100% security of your data. If you have questions email hello@saasify.io</p><p><br></p><p><b>Disclosure</b></p><p><br></p><p>1. SAASIFY LLC may use third party service providers to provide certain services to you and we may share Personal Information with such service providers. We require any company with which we may share Personal Information to protect that data in a manner consistent with this policy and to limit the use of such Personal Information to the performance of services for SAASIFY LLC.</p><p><br></p><p>2. SAASIFY LLC may disclose Personal Information under special circumstances, such as to comply with court orders requiring us to do so or when your actions violate the Terms of Service.</p><p><br></p><p>3. We do not sell or otherwise provide Personal Information to other companies for the marketing of their own products or services.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>In certain circumstances, we may disclose your personal information, like court orders.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Client Data Storage</span><br></b></p><p><br></p><p>SAASIFY LLC owns the data storage, databases and all rights to the SAASIFY LLC application however we make no claim to the rights of your data. You retain all rights to your data and we will never contact your clients directly, or use your data for our own business advantage or to compete with you or market to your clients.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>You own your data and we will respect that. We won’t try and compete with you or write to your customers.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cookies</span><br></b></p><p><br></p><p>A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Every computer that accesses our website is assigned a different cookie by us.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Google Analytics and Remarketing</span><br></b></p><p><br></p><p>We use a service provided by Google called Google Analytics. Google Analytics permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network. This is often called ‘remarketing’.</p><p><br></p><p>Cookies can be used to track your session on our website, to serve customized ads from Google and other third party vendors. When you visit this website, you may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that you will see.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Opting Out</span><br></b></p><p><br></p><p>You may be able to opt out of customized Google Display Network ads by visiting the Ads Preferences Manager ([http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)), and the Google Analytics Opt-out Browser Add-on ([http://www.google.ca/ads/preferences/plugin/](http://www.google.ca/ads/preferences/plugin/)).</p><p><br></p><p>Your use of this website without opting out means that you understand and agree to data collection to provide you with remarketing ads using GA and cookies from other third party vendors based on your prior visits to this website and elsewhere on the Internet.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>To identify you electronically, a cookie will be stored on your computer. We have a “remarketing” tool running that allows us to take note of your visits to our site and show you relevant ads on our website and across the Internet. You can always opt out.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">PCI-DSS</span><br></b></p><p><br></p><p>The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security requirements managed by the PCI Security Standards Council, a joint effort of the payment brands, including Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by merchants and service providers.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will use industry standards in security, the same ones used by the big credit card companies, to help you keep a secure SAASIFY LLC account.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Changes to this Privacy Policy</span><br></b></p><p><br></p><p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We may change this Privacy Statement. If it’s a big change, we will inform you, right here.</p><p><br></p><p><b>Questions</b></p><p><br></p><p>Any questions about this Privacy Policy should be addressed by email at hello@saasify.io or by mail to 12506 Fox View Way, Reston, VA 20191</p><p><br></p><p><i>Updated: October 1, 2016</i></p>"
+          "text": "<p><b>What we do with your information</b></p><p><br></p><p>1. The term “Personal Information” as used herein is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information pertains. The Personal Information that we collect will be subject to this Privacy Policy, as amended from time to time.</p><p><br></p><p>2. When you register for SAASIFY LLC we ask for your email address.</p><p><br></p><p>3. SAASIFY LLC uses the information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</p><p><br></p><p>4. As part of the buying and selling process on SAASIFY LLC, you will obtain the email address and/or shipping address of your customers. By entering into our User Agreement, you agree that, with respect to other users’ Personal Information that you obtain through SAASIFY LLC or through a SAASIFY LLC-related communication or SAASIFY LLC-facilitated transaction, SAASIFY LLC hereby grants to you a license to use such information only for SAASIFY LLC-related communications that are not unsolicited commercial messages. SAASIFY LLC does not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add the name of someone who has purchased an item from you, to your mail list (email or physical mail) without their express consent.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>When you sign up you provide personal information which we collect and use. For the check-out process we also collect your credit card information. Only use your SAASIFY LLC customers’ information for SAASIFY LLC-related communications, unless they give you permission otherwise. Don’t spam anyone!</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Security</span><br></b></p><p><br></p><p>The security of your personal information is important to us. When you enter sensitive information, such as credit card number on our registration form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider we follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at hello@saasify.io.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will encrypt your credit card and sensitive information at industry standards. Because stuff happens, we can’t guarantee 100% security of your data. If you have questions email hello@saasify.io</p><p><br></p><p><b>Disclosure</b></p><p><br></p><p>1. SAASIFY LLC may use third party service providers to provide certain services to you and we may share Personal Information with such service providers. We require any company with which we may share Personal Information to protect that data in a manner consistent with this policy and to limit the use of such Personal Information to the performance of services for SAASIFY LLC.</p><p><br></p><p>2. SAASIFY LLC may disclose Personal Information under special circumstances, such as to comply with court orders requiring us to do so or when your actions violate the Terms of Service.</p><p><br></p><p>3. We do not sell or otherwise provide Personal Information to other companies for the marketing of their own products or services.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>In certain circumstances, we may disclose your personal information, like court orders.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Client Data Storage</span><br></b></p><p><br></p><p>SAASIFY LLC owns the data storage, databases and all rights to the SAASIFY LLC application however we make no claim to the rights of your data. You retain all rights to your data and we will never contact your clients directly, or use your data for our own business advantage or to compete with you or market to your clients.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>You own your data and we will respect that. We won’t try and compete with you or write to your customers.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cookies</span><br></b></p><p><br></p><p>A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Every computer that accesses our website is assigned a different cookie by us.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Google Analytics and Remarketing</span><br></b></p><p><br></p><p>We use a service provided by Google called Google Analytics. Google Analytics permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network. This is often called ‘remarketing’.</p><p><br></p><p>Cookies can be used to track your session on our website, to serve customized ads from Google and other third party vendors. When you visit this website, you may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that you will see.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Opting Out</span><br></b></p><p><br></p><p>You may be able to opt out of customized Google Display Network ads by visiting the Ads Preferences Manager ([http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)), and the Google Analytics Opt-out Browser Add-on ([http://www.google.ca/ads/preferences/plugin/](http://www.google.ca/ads/preferences/plugin/)).</p><p><br></p><p>Your use of this website without opting out means that you understand and agree to data collection to provide you with remarketing ads using GA and cookies from other third party vendors based on your prior visits to this website and elsewhere on the Internet.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>To identify you electronically, a cookie will be stored on your computer. We have a “remarketing” tool running that allows us to take note of your visits to our site and show you relevant ads on our website and across the Internet. You can always opt out.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">PCI-DSS</span><br></b></p><p><br></p><p>The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security requirements managed by the PCI Security Standards Council, a joint effort of the payment brands, including Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by merchants and service providers.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We will use industry standards in security, the same ones used by the big credit card companies, to help you keep a secure SAASIFY LLC account.</p><p><br></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Changes to this Privacy Policy</span><br></b></p><p><br></p><p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><p><br></p><p>WHICH MEANS</p><p><br></p><p>We may change this Privacy Statement. If it’s a big change, we will inform you, right here.</p><p><br></p><p><b>Questions</b></p><p><br></p><p>Any questions about this Privacy Policy should be addressed by email at hello@saasify.net</p><p><br></p><p><i>Updated: October 1, 2018</i></p>"
         },
         {
           "_name": "footer1",
@@ -1704,15 +1706,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1730,22 +1732,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "startups.html": {
       "settings": {
-        "title": "SaaSify.io | Startups",
+        "title": "SaaSify | Startups",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1823,6 +1825,12 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -1831,22 +1839,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1863,23 +1865,23 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-3b",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/small-business-startup-resize.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.5"
           },
           "title": "Startup Founders &amp; CEOs:",
           "text": "Realize your vision and go big with marketing that scales as you grow.<br>[tech startups, health-tech, professional services, VC/PE portfolios, and more]<br>",
@@ -1903,10 +1905,10 @@
           "_name": "header3",
           "_anchor": "header3-3c",
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "Marketing For Growth",
           "meta": "40% of top 20 reasons startups fail are marketing related, led by market need and competition. How do you ensure market fit and compete to gain mindshare for your promise and marketshare for your product with limited marketing investment, team or capability?&nbsp;Build your own Marketing-As-Service to take on your specific brand, product, customer demand or retention objective.<br>"
@@ -1931,24 +1933,24 @@
           },
           "_anchor": "extFeatures2-4z",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
             "elements": "3",
-            "iconsColor": "#333333",
-            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "file:///C:/Users/vj_ba/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures2_bg_1.jpg",
-            "bgColor": "#e9e9e9",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.1,
             "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showIcons": true
+            "overlayOpacity": 0.1,
+            "showIcons": true,
+            "iconsColor": "#333333"
           },
           "media": {
             "image": {
@@ -2026,15 +2028,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_styles": {
@@ -2087,22 +2089,22 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-3h",
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#ffffff",
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.75
           },
           "title": "Marketing-As-A-Service Example",
           "subtitle": "<b>Scenario</b>: You set strategy, built a minimum product and basic brand presence. Ready to validate market fit and drive customer acquisition?<br>",
@@ -2202,22 +2204,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "non-profits.html": {
       "settings": {
-        "title": "SaaSify.io | Non-Profits",
+        "title": "SaaSify | Non-Profits",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2295,6 +2297,12 @@
           "_name": "menu",
           "_anchor": "menu-49",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -2303,22 +2311,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2335,23 +2337,23 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-4a",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/non-profit.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.5"
           },
           "title": "Non-Profit Boards &amp; Executive Directors:",
           "text": "Power your mission and amplify impact with commercial-grade marketing.<br>[charities, foundations, associations, social enterprises, and more]<br>",
@@ -2375,10 +2377,10 @@
           "_name": "header3",
           "_anchor": "header3-4b",
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "Marketing For Impact",
           "meta": "Over 1.5 million nonprofits in the US are competing for mindshare for their missions. How do you gain mindshare for your mission and marketshare for your programs with limited marketing budgets, staff or capability? Build your own Marketing-As-Service to take on your specific brand, market, fundraising or stewardship objective.<br>"
@@ -2395,15 +2397,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
@@ -2425,24 +2427,24 @@
           },
           "_anchor": "extFeatures2-4r",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
             "elements": "3",
-            "iconsColor": "#333333",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures2_bg.jpg",
-            "bgColor": "#e9e9e9",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures2_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.1,
             "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showIcons": true
+            "overlayOpacity": 0.1,
+            "showIcons": true,
+            "iconsColor": "#333333"
           },
           "media": {
             "image": {
@@ -2559,22 +2561,22 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-4d",
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#ffffff",
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.75
           },
           "title": "Marketing-As-A-Service Example",
           "subtitle": "<b>Scenario</b>: You set strategy, built basic brand presence, validated demand for your program. Ready to raise constituent engagement and funds?<br>",
@@ -2674,22 +2676,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "#marketing-blocks.html": {
       "settings": {
-        "title": "SaaSify.io | Marketing Blocks",
+        "title": "SaaSify | Marketing Blocks",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2767,6 +2769,12 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -2775,22 +2783,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2800,7 +2802,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured-blocks.html\" aria-expanded=\"false\">SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"featured.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"startups.html\" aria-expanded=\"false\">STARTUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"non-profits.html\" aria-expanded=\"false\">NONPROFITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2820,25 +2822,25 @@
           },
           "_anchor": "extHeader3-1y",
           "_params": {
-            "iconsColor": "#ffffff",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/business-teamwork-on-puzzle-pieces-to-success-1.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
+            "showArrow": true,
             "showIcons": true,
+            "iconsColor": "#ffffff",
             "showTitles": true,
-            "showArrow": true
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/business-teamwork-on-puzzle-pieces-to-success-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
           },
           "title": "MARKETING BLOCKS",
           "text": "Select a block for your growth stage or objective. Connect more to build your own Marketing-As-A-Service.",
@@ -2918,10 +2920,10 @@
           "_name": "header3",
           "_anchor": "header3-1m",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "SETUP",
           "meta": "CMO/Chief Marketing Officer Strategic Services"
@@ -2949,26 +2951,26 @@
           },
           "_anchor": "extFeatures14-1n",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0,
-            "overlayColor": "#222",
-            "columns": 4,
             "showBgTitle": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
           },
           "background1": "1",
           "title1": "Prioritize",
@@ -3006,10 +3008,10 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": false
+            "bgColor": "#ffffff"
           },
           "title": "START &gt; SCALE &gt; SUSTAIN",
           "meta": "By John Smith posted July 20, 2016"
@@ -3066,10 +3068,15 @@
           ],
           "_name": "extShop1",
           "_params": {
+            "showTitle": false,
             "showSidebar": true,
             "showSortButtons": true,
+            "showBestSellers": false,
+            "priceRange": false,
+            "filter": true,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "bgColor": "#fff",
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
             "mainTitle": "@titleFont",
@@ -3268,12 +3275,7 @@
                 "itemDescription": "<p></p><p>Cultivate customer advocates and referrals by designing and implementing programs.</p><p><br></p><p></p><p></p><pre>TAGS:&nbsp;SUSTAIN | CUSTOMER</pre><p></p>",
                 "button": "<a data-app-btn=\"true\" href=\"marketing-blocks.html#extShop1-38\" class=\"btn btn-primary\">More</a>"
               }
-            ],
-            "bgColor": "#fff",
-            "showTitle": false,
-            "showBestSellers": false,
-            "priceRange": false,
-            "filter": true
+            ]
           },
           "_anchor": "extShop1-38",
           "title": "Shop",
@@ -3313,15 +3315,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2016 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -3339,22 +3341,22 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "featured.html": {
       "settings": {
-        "title": "SaaSify.io | Featured Blocks",
+        "title": "SaaSify | Featured Blocks",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3432,6 +3434,12 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#363636",
             "fontSize": "0.8",
             "fontName": {
@@ -3440,22 +3448,16 @@
               "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-485x128-80-1.png",
+              "src": "@PROJECT_PATH@/assets/images/saasify-logo-black-240x240-300dpi-crop.png",
               "height": 128,
-              "alt": "SaaSify.io",
+              "alt": "SaaSify",
               "link": "index.html",
-              "title": "SaaSify.io | Marketing",
+              "title": "SaaSify | Marketing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -3485,25 +3487,25 @@
           },
           "_anchor": "extHeader3-3n",
           "_params": {
-            "iconsColor": "#ffffff",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jigsaw-puzzle-concept.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
+            "showArrow": true,
             "showIcons": false,
+            "iconsColor": "#ffffff",
             "showTitles": false,
-            "showArrow": true
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jigsaw-puzzle-concept.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
           },
           "title": "FEATURED SERVICES",
           "text": "Select by growth stage or objective. Combine for turnkey Marketing-As-A-Service.",
@@ -3583,10 +3585,10 @@
           "_name": "header3",
           "_anchor": "header3-3o",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "BRAND | MARKET POSITIONING",
           "meta": "Position brand with stakeholders or product in the market<br>[<b>SaaSify GPS Framework</b>: Values-Strengths-Differentiators]"
@@ -3614,26 +3616,26 @@
           },
           "_anchor": "extFeatures14-3p",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0,
-            "overlayColor": "#222",
-            "columns": 4,
             "showBgTitle": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
           },
           "background1": "1",
           "title1": "Audience",
@@ -3674,10 +3676,10 @@
           "_name": "header3",
           "_anchor": "header3-46",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#606163",
-            "showMeta": true
+            "bgColor": "#606163"
           },
           "title": "BRAND PRESENCE",
           "meta": "Build digital presence as foundation for outreach"
@@ -3704,27 +3706,27 @@
           "_name": "features4",
           "_anchor": "features4-45",
           "_params": {
-            "iconsBgColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#606163",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#606163",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -3843,10 +3845,10 @@
           "_name": "header3",
           "_anchor": "header3-3q",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "CUSTOMER PROFILE",
           "meta": "[<b>SaaSify Funnel Framework</b>: Leads estimate from revenue goal and conversion]"
@@ -3876,26 +3878,26 @@
           },
           "_anchor": "extFeatures4-47",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
           },
           "media1": {
             "iconFont": {
@@ -4011,22 +4013,22 @@
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-48",
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#606163",
             "bgColorRadio": true,
+            "bgColor": "#606163",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.75
           },
           "title": "BRAND | SALES CAMPAIGN",
           "subtitle": "Orchestrate content &amp; communications - digital &amp; offline channels, automation, analytics<br>[<b>SaaSify Orchestration Framework</b>: Proprietary Tools + Commercial Apps + Crowdsourcing]<br>",
@@ -4116,10 +4118,10 @@
           "_name": "header3",
           "_anchor": "header3-43",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "VOICE OF CUSTOMER",
           "meta": "Capture and incorporate customer voice into products, marketing, sales, service"
@@ -4143,27 +4145,27 @@
           },
           "_anchor": "features2-41",
           "_params": {
-            "columnsColor": "#606163",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#606163",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -4271,15 +4273,15 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "(c) 2017 SAASIFY LLC. All rights reserved.<br>"
+          "text": "(c) 2016-8 SAASIFY LLC. All rights reserved.<br>"
         },
         {
           "_tags": [
@@ -4310,16 +4312,16 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#363636",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#363636",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
